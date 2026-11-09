@@ -1,4 +1,4 @@
-// this is the code to understand the loooping in the program
+// this is the code to understand the loooping in the program ..
 public class LoopsImplementation {
     public static void main(String[] args) {
             System.out.println("\nBy the for loop :- ");
