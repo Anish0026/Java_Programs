@@ -1,4 +1,4 @@
-//tjis is used to check whether a number is odd or even 
+//tjis is used to check whether a number is odd or even  
 import java.util.*;
 public class OddEvenChecker{
     public static void main(String[] args) {
