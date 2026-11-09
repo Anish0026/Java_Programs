@@ -1,6 +1,6 @@
 // this is the code to understand the loooping in the program ..
 public class LoopsImplementation {
-    public static void main(String[] args) {
+    public static void main(String[] args){
             System.out.println("\nBy the for loop :- ");
             for(int i = 0 ; i<= 10 ; i++){
                 System.out.println("value of i :- "+i);
