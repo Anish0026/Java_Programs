@@ -19,7 +19,7 @@ public class Factorial {
             if(result>=1)
                 System.out.println("\nThe factorial of the number "+num+" is :- "+result);
             else
-                System.out.println("\nThe number is invalid to know the factorial");
+                System.out.println("\nThe number is invalid to know the factorial.");
         }
     }
 }
