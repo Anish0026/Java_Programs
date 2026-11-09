@@ -1,4 +1,4 @@
-// sum of the N numbers given by the user
+// sum of the N numbers given by the user 
 import java.util.*;
 public class SumOfNumbers{
     public static void main(String[] args) {
