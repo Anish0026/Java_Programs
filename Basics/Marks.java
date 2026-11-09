@@ -10,6 +10,7 @@ Marks >=90 -> print “This is Good”
 59 >= Marks >= 0 -> print “This is Good as well”
 Because marks don’t matter but our effort does.
 (Hint : use do-while loop but think & understand why)
+
 */
     public static void main() {
         System.out.println("1.To input the value of the marks\n2.0 for stop the loop");
