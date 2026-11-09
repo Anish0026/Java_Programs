@@ -20,6 +20,19 @@ public class StringsMethods {
             for(int i=0 ;i<f2.length();i++){
                 System.out.print(f2.charAt(i)+",");
             }
+            String name1 = "Tony";
+            String name2 = "Tony5";
+            int p = (name1.compareTo(name2));
+            if (p==0){
+                System.out.println("\nStrings are equal");
+            }
+            else{
+                System.out.println("\nThey are not equal");
+            }
+            // Substring
+            String k = "hi my name is anish senapati";
+            System.out.println("The substring is :- "+k.substring(14));
         }
+
     }
 }
