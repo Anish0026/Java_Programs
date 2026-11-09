@@ -1,4 +1,4 @@
-//implementation of the multiplicatioon table
+//implementation of the multiplicatioon table 
 import java.util.*;
 public class NumberTable {
     public static void main(String[] args) {
