@@ -1,4 +1,4 @@
-//print all the even and odd numbers frfom  0 to a given limit number
+//print all the even and odd numbers frfom  0 to a given limit number 
 import java.util.Scanner;
 
 public class OddEvenCheckerLimit {
