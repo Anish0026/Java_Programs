@@ -4,6 +4,5 @@ public class UsageOfPrintln{
         System.out.print("This is the print function with \\n \n");
         System.out.println("This is the println function \n");
         System.out.print("This is the print function ");
-
     }
 }
