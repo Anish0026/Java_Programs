@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Basics",
-        "Basic_Maths_For_Dsa"
+        "Basic_Maths_For_Dsa",
+        "Patterns"
     ]
 }
