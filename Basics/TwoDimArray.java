@@ -11,7 +11,7 @@ public class TwoDimArray {
             int arr[][] = new int[row][col];
             for(int i=0;i<=row-1;i++){
                 for(int j=0;j<=col-1;j++){
-                    System.out.print("\nEnter the element of "+"arr["+i+"]["+j+"]"+" :- ");
+                    System.out.print("\nEnter the element of arr["+i+"]["+j+"]"+" is :- ");
                     arr[i][j]=sc.nextInt();
                 }
             }
