@@ -12,7 +12,6 @@ public class ReverseNumber {
                 result = result * 10 + digit;
                 num = num / 10;
             }
-
             System.out.println("Reversed number: " + result);
         }
     }
